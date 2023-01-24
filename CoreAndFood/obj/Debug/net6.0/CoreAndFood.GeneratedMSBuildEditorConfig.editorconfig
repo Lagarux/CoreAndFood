@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreAndFood
+build_property.RootNamespace = CoreAndFood
+build_property.ProjectDir = C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\CoreAndFood\CoreAndFood\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\CoreAndFood\CoreAndFood
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Category/CategoryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Category/CategoryGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Chart/ColIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcQ29sSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Chart/FoodIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcRm9vZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Chart/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcU3RhdGlzdGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Default/CategoryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDYXRlZ29yeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Default/Components/FoodListByCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXEZvb2RMaXN0QnlDYXRlZ29yeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Default/Components/GetCategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXEdldENhdGVnb3J5TGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Default/Components/GetFoodList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXEdldEZvb2RMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Food/AddFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxBZGRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Food/GetFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxHZXRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Food/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Shared/_CoreFoodLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db3JlRm9vZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Shared/_SiteLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ttt-g/OneDrive/Masaüstü/WSTE/Visual_Studio/Asp.Net/CoreAndFood/CoreAndFood/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dsojasuo2l
